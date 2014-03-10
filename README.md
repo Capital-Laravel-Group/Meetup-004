@@ -1,4 +1,6 @@
-# Meetup 003
+# Meetup 004
 * Introduction
-* Presentation: Regression testing your Laravel app with Selenium and PHPUnit
+* Talk: Laravel 101 
+  * For Laravel beginners and pro's who want to learn a few new tricks.
+  * We'll cover: Installing, Routes, Controllers, Eloquent ORM (as much as time permits)
 * Discussion and Q/A
